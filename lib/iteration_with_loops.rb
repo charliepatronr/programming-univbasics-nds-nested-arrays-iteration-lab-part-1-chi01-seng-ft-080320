@@ -10,5 +10,6 @@ def find_even_values(src)
       end 
       j +=1
     end 
+    i +=1
   end
 end
