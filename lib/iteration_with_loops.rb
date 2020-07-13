@@ -5,5 +5,9 @@ def find_even_values(src)
     j=0 
     
     while j <src[i] do 
-
+      if (src[i][j] % 2 == 0)
+        puts src[i][j]
+      end 
+    end 
+  end
 end
